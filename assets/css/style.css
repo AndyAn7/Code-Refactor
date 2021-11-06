@@ -141,7 +141,7 @@ p {
 
 @media screen and (max-width: 65em) {
 
-    /* Header Section */
+    /* headerSection */
     header {
         display: flex;
         flex-direction: column;
@@ -163,12 +163,13 @@ p {
         line-height: 10vw;
     }
 
-    /* Main Content Section */
+    /* mainContentSection */
     .content {
         display: flex;
         flex-direction: column;
         width: 100%;
         margin: 0;
+        align-content: space-between 10 px;
     }
 
     .content > div {
@@ -176,14 +177,14 @@ p {
         width: 100%;
     }
 
-    /* Side Content Section */
+    /* sideContentSection */
     .benefits {
         margin: 0;
         clear: initial;
         float: initial;
         width: 100%;
         display: flex;
-        justify-content: space-around;
+        align-content: space-around;
     }
 
     .benefits > div {
@@ -191,7 +192,7 @@ p {
     }
 }
 
-/* Mobile styling less than 50em wide (breaking main img content) */
+/* mobileStylingLessThan50emWide(breaking main img content) */
 @media screen and (max-width: 50em) {
     .content img {
         display: block;
