@@ -17,7 +17,7 @@ consolidatedAllPreviousBenefitClassChildrenUnderClassBenefitsTag
 
 [deployedApplication](https://andyan7.github.io/Code-Refactor/)
 
-[urlGithubRepo]()
+[urlGithubRepo](https://github.com/AndyAn7/Code-Refactor)
 
 ![image](https://github.com/AndyAn7/homeWork1/blob/main/screenShot/imgForHW1.png?raw=true)
 ![image](https://github.com/AndyAn7/homeWork1/blob/main/screenShot/imgForHW1.2.png?raw=true)
