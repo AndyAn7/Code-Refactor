@@ -1,19 +1,9 @@
 # Code-Refactor
-firstHomeworkAssignment'''CodeRefactor'''
+Homework intOne
 
-'''HTML'''
+All of the semantic elements associated with a proper update have been applied: Div elements have been neutralized and replaced with Header, Nav, Section, Article, Content, Aside, and Footer semantics.
 
-changedDivElementWithinHeaderToNavElement
-changedDivClassContentAndChildrenToSectionAndArticleRespectively
-    changedArticleClassToSearchEngineProduct
-createdNewClassRenamedBenfitsTagAsDivClassBenefitsChild
-
-'''CSS'''
-
-correctedFontFamilyToMatch
-changedDivChildOfHeaderToNav
-consolidatedAllSectionClassContentUnderClassSearchEngineProduct
-consolidatedAllPreviousBenefitClassChildrenUnderClassBenefitsTag
+This assignment is refactored.
 
 [deployedApplication](https://andyan7.github.io/Code-Refactor/)
 
