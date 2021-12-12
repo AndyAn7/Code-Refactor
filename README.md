@@ -1,7 +1,7 @@
 # Code-Refactor
 Homework intOne
 
-All of the semantic elements associated with a proper update have been applied: Title has been updated to reflect domain/business. Div elements have been neutralized and replaced with Header, Nav, Section, Article, Content, Aside, and Footer semantics.
+All of the semantic elements associated with a proper update have been applied: Title has been updated to reflect domain/business. Div elements have been updated and replaced with Header, Nav, Section, Article, Content, Aside, and Footer semantics.
 
 This assignment is refactored.
 
